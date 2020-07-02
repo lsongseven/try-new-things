@@ -113,7 +113,7 @@
                 <version>0.4.14</version>
                 <configuration>
                     <imageName>${project.groupId}.${project.artifactId}</imageName>
-                    <dockerDirectory>${project.build.outputDirectory}</dockerDirectory>
+                    <dockerDirectory>.</dockerDirectory>
                     <dockerHost>http://127.0.0.1:2375</dockerHost>
                     <resources>
                         <resource>
