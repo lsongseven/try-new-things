@@ -1,0 +1,237 @@
+---------------- ------- ------- ------- 
+00000001004c0000 1043712       0       0 -----   [ anon ]
+00007f6e30021000   65404       0       0 -----   [ anon ]
+00007f6e3430e000   62408       0       0 -----   [ anon ]
+00007f6e38021000   65404       0       0 -----   [ anon ]
+00007f6e3c021000   65404       0       0 -----   [ anon ]
+00007f6e40021000   65404       0       0 -----   [ anon ]
+00007f6e44021000   65404       0       0 -----   [ anon ]
+00007f6e48021000   65404       0       0 -----   [ anon ]
+00007f6e4c021000   65404       0       0 -----   [ anon ]
+00007f6e50021000   65404       0       0 -----   [ anon ]
+00007f6e54021000   65404       0       0 -----   [ anon ]
+00007f6e58021000   65404       0       0 -----   [ anon ]
+00007f6e5c021000   65404       0       0 -----   [ anon ]
+00007f6e60021000   65404       0       0 -----   [ anon ]
+00007f6e64021000   65404       0       0 -----   [ anon ]
+00007f6e68049000   65244       0       0 -----   [ anon ]
+00007f6e6c021000   65404       0       0 -----   [ anon ]
+00007f6e70021000   65404       0       0 -----   [ anon ]
+00007f6e744f2000   60472       0       0 -----   [ anon ]
+00007f6e78845000   57068       0       0 -----   [ anon ]
+00007f6e7c042000   65272       0       0 -----   [ anon ]
+00007f6e811d8000   47264       0       0 -----   [ anon ]
+00007f6e85457000   44708       0       0 -----   [ anon ]
+00007f6e88021000   65404       0       0 -----   [ anon ]
+00007f6e94021000   65404       0       0 -----   [ anon ]
+00007f6e98021000   65404       0       0 -----   [ anon ]
+00007f6e9c021000   65404       0       0 -----   [ anon ]
+00007f6ea0021000   65404       0       0 -----   [ anon ]
+00007f6ea403f000   65284       0       0 -----   [ anon ]
+00007f6eaaef3000      12       0       0 -----   [ anon ]
+00007f6eaaff4000      12       0       0 -----   [ anon ]
+00007f6eab0f5000      12       0       0 -----   [ anon ]
+00007f6eab1f6000      12       0       0 -----   [ anon ]
+00007f6eab2f7000      12       0       0 -----   [ anon ]
+00007f6eab3f8000      12       0       0 -----   [ anon ]
+00007f6eab4f9000      12       0       0 -----   [ anon ]
+00007f6eab5fa000      12       0       0 -----   [ anon ]
+00007f6eab6fb000      12       0       0 -----   [ anon ]
+00007f6eab7fc000      12       0       0 -----   [ anon ]
+00007f6eab8fd000      12       0       0 -----   [ anon ]
+00007f6eab9fe000      12       0       0 -----   [ anon ]
+00007f6eabaff000      12       0       0 -----   [ anon ]
+00007f6eabd6a000     600       0       0 -----   [ anon ]
+00007f6eac021000   65404       0       0 -----   [ anon ]
+00007f6eb00b0000      12       0       0 -----   [ anon ]
+00007f6eb09b1000      12       0       0 -----   [ anon ]
+00007f6eb0b62000      12       0       0 -----   [ anon ]
+00007f6eb146c000    2044       0       0 ----- libmanagement.so
+00007f6eb186d000      12       0       0 -----   [ anon ]
+00007f6eb1b86000    2044       0       0 ----- libnet.so
+00007f6eb1d99000    2044       0       0 ----- libnio.so
+00007f6eb1f9a000       4       0       0 -----   [ anon ]
+00007f6eb209b000      12       0       0 -----   [ anon ]
+00007f6eb219c000      16       0       0 -----   [ anon ]
+00007f6eb229d000      16       0       0 -----   [ anon ]
+00007f6eb239e000      16       0       0 -----   [ anon ]
+00007f6eb249f000      12       0       0 -----   [ anon ]
+00007f6eb25a0000      12       0       0 -----   [ anon ]
+00007f6eb26a1000      12       0       0 -----   [ anon ]
+00007f6eb27a2000       4       0       0 -----   [ anon ]
+00007f6eb4024000   65392       0       0 -----   [ anon ]
+00007f6eb8420000       4       0       0 -----   [ anon ]
+00007f6eb8521000       4       0       0 -----   [ anon ]
+00007f6eb8622000       4       0       0 -----   [ anon ]
+00007f6eb8723000       4       0       0 -----   [ anon ]
+00007f6eb8851000    3660       0       0 -----   [ anon ]
+00007f6eb9704000  234368       0       0 -----   [ anon ]
+00007f6ec7bec000    2044       0       0 ----- libzip.so
+00007f6ec7df9000    2044       0       0 ----- libnss_files-2.17.so
+00007f6ec7ffa000      24       0       0 rw---   [ anon ]
+00007f6ec90cc000   48336       0       0 -----   [ anon ]
+00007f6ecc040000    2044       0       0 ----- libjava.so
+00007f6ecc24f000    2044       0       0 ----- libverify.so
+00007f6ecc458000    2044       0       0 ----- librt-2.17.so
+00007f6ecc66e000    2044       0       0 ----- libgcc_s-4.8.5-20150702.so.1
+00007f6ecc970000    2044       0       0 ----- libm-2.17.so
+00007f6eccc5a000    2044       0       0 ----- libstdc++.so.6.0.19
+00007f6ecdb73000    2048       0       0 ----- libjvm.so
+00007f6ece03f000    2048       0       0 ----- libc-2.17.so
+00007f6ece24c000    2048       0       0 ----- libdl-2.17.so
+00007f6ece45c000    2044       0       0 ----- libjli.so
+00007f6ece672000    2044       0       0 ----- libz.so.1.2.7
+00007f6ece88a000    2044       0       0 ----- libpthread-2.17.so
+00007f6eceb94000      16       0       0 -----   [ anon ]
+00007f6ececae000       4       0       0 r----   [ anon ]
+130212:   java -XX:NativeMemoryTracking=detail -Xmx50m -jar hello-world-1.0-SNAPSHOT.jar
+Address           Kbytes     RSS   Dirty Mode  Mapping
+ffffffffff600000       4       0       0 r-x--   [ anon ]
+000055e20cc30000       4       4       0 r-x-- java
+000055e20ce30000       4       4       4 r---- java
+000055e20ce31000       4       4       4 rw--- java
+00007f6e38000000     132       4       4 rw---   [ anon ]
+00007f6e3c000000     132       4       4 rw---   [ anon ]
+00007f6e40000000     132       4       4 rw---   [ anon ]
+00007f6e44000000     132       4       4 rw---   [ anon ]
+00007f6e48000000     132       4       4 rw---   [ anon ]
+00007f6e4c000000     132       4       4 rw---   [ anon ]
+00007f6e50000000     132       4       4 rw---   [ anon ]
+00007f6e54000000     132       4       4 rw---   [ anon ]
+00007f6e58000000     132       4       4 rw---   [ anon ]
+00007f6e5c000000     132       4       4 rw---   [ anon ]
+00007f6e60000000     132       4       4 rw---   [ anon ]
+00007f6e64000000     132       4       4 rw---   [ anon ]
+00007f6e6c000000     132       4       4 rw---   [ anon ]
+00007f6e70000000     132       4       4 rw---   [ anon ]
+00007f6e98000000     132       4       4 rw---   [ anon ]
+00007f6eb166b000       4       4       4 r---- libmanagement.so
+00007f6eb166c000       4       4       4 rw--- libmanagement.so
+00007f6eb1d85000       4       4       4 r---- libnet.so
+00007f6eb1d86000       4       4       4 rw--- libnet.so
+00007f6eb1f98000       4       4       4 r---- libnio.so
+00007f6eb1f99000       4       4       4 rw--- libnio.so
+00007f6ec7deb000       4       4       4 r---- libzip.so
+00007f6ec7dec000       4       4       4 rw--- libzip.so
+00007f6ec7ff8000       4       4       4 r---- libnss_files-2.17.so
+00007f6ec7ff9000       4       4       4 rw--- libnss_files-2.17.so
+00007f6ecc23f000       4       4       4 r---- libjava.so
+00007f6ecc450000       4       4       4 rw--- libverify.so
+00007f6ecc657000       4       4       4 r---- librt-2.17.so
+00007f6ecc658000       4       4       4 rw--- librt-2.17.so
+00007f6ecc86d000       4       4       4 r---- libgcc_s-4.8.5-20150702.so.1
+00007f6ecc86e000       4       4       4 rw--- libgcc_s-4.8.5-20150702.so.1
+00007f6eccb6f000       4       4       4 r---- libm-2.17.so
+00007f6eccb70000       4       4       4 rw--- libm-2.17.so
+00007f6ece44c000       4       4       4 r---- libdl-2.17.so
+00007f6ece44d000       4       4       4 rw--- libdl-2.17.so
+00007f6ece65b000       4       4       4 r---- libjli.so
+00007f6ece65c000       4       4       4 rw--- libjli.so
+00007f6ece871000       4       4       4 r---- libz.so.1.2.7
+00007f6ece872000       4       4       4 rw--- libz.so.1.2.7
+00007f6ecea89000       4       4       4 r---- libpthread-2.17.so
+00007f6ecea8a000       4       4       4 rw--- libpthread-2.17.so
+00007f6ecea8b000      16       4       4 rw---   [ anon ]
+00007f6ececa4000       4       4       4 rw---   [ anon ]
+00007f6ececad000       4       4       4 rw---   [ anon ]
+00007f6ececaf000       4       4       4 rw---   [ anon ]
+00007f6ececb0000       4       4       4 r---- ld-2.17.so
+00007f6ececb1000       4       4       4 rw--- ld-2.17.so
+00007f6ececb2000       4       4       4 rw---   [ anon ]
+00007ffd2a6b2000       8       4       0 r-x--   [ anon ]
+00007f6e30000000     132       8       8 rw---   [ anon ]
+00007f6eb1f9b000    1024       8       8 rw---   [ anon ]
+00007f6ecc240000       8       8       8 rw--- libjava.so
+00007f6ecc44e000       8       8       8 r---- libverify.so
+00007f6ecce61000       8       8       8 rw--- libstdc++.so.6.0.19
+00007f6ece243000       8       8       8 rw--- libc-2.17.so
+00007f6ece24a000       8       8       0 r-x-- libdl-2.17.so
+00007f6e88000000     132      12      12 rw---   [ anon ]
+00007f6eb8421000    1024      12      12 rw---   [ anon ]
+00007f6eb8522000    1024      12      12 rw---   [ anon ]
+00007f6eb8623000    1024      12      12 rw---   [ anon ]
+00007f6ecc659000      84      12       0 r-x-- libgcc_s-4.8.5-20150702.so.1
+00007f6ecce63000      84      12      12 rw---   [ anon ]
+00007f6ecc451000      28      16       0 r-x-- librt-2.17.so
+00007f6ece23f000      16      16      16 r---- libc-2.17.so
+00007f6ececa0000      16      16       0 r--s- hello-world-1.0-SNAPSHOT.jar
+00007f6ece245000      20      20      20 rw---   [ anon ]
+00007f6ecec9b000      20      20       0 r--s- jsse.jar
+000055e20d766000     132      24      24 rw---   [ anon ]
+00007f6eaaef6000    1016      24      24 rw---   [ anon ]
+00007f6e94000000     132      28      28 rw---   [ anon ]
+00007f6eb1463000      36      28       0 r-x-- libmanagement.so
+00007f6eb21a0000    1012      28      28 rw---   [ anon ]
+00007f6ec7be4000      32      28       0 r-x-- libzip.so
+00007f6ec7ded000      48      32       0 r-x-- libnss_files-2.17.so
+00007f6ecce59000      32      32      32 r---- libstdc++.so.6.0.19
+00007f6ececa5000      32      32      16 rw-s- 130212
+00007f6eb22a1000    1012      36      36 rw---   [ anon ]
+00007f6eb23a2000    1012      36      36 rw---   [ anon ]
+00007f6ece65d000      84      36       0 r-x-- libz.so.1.2.7
+00007ffd2a648000     132      36      36 rw---   [ stack ]
+00007f6e8dabe000  103688      44       0 r---- locale-archive
+00007f6ea0000000     132      52      52 rw---   [ anon ]
+00007f6ecc242000      52      52       0 r-x-- libverify.so
+00007f6ece44e000      56      52       0 r-x-- libjli.so
+00007f6eb1b6e000      96      56       0 r-x-- libnet.so
+00007f6eb1d87000      72      56       0 r-x-- libnio.so
+00007f6ece873000      92      72       0 r-x-- libpthread-2.17.so
+00007f6eab0f8000    1016      88      88 rw---   [ anon ]
+00007f6eab1f9000    1016      88      88 rw---   [ anon ]
+00007f6eab2fa000    1016      88      88 rw---   [ anon ]
+00007f6eab3fb000    1016      88      88 rw---   [ anon ]
+00007f6eab4fc000    1016      88      88 rw---   [ anon ]
+00007f6eab5fd000    1016      88      88 rw---   [ anon ]
+00007f6eab6fe000    1016      88      88 rw---   [ anon ]
+00007f6eab7ff000    1016      88      88 rw---   [ anon ]
+00007f6eab900000    1016      88      88 rw---   [ anon ]
+00007f6eaba01000    1016      88      88 rw---   [ anon ]
+00007f6eb25a3000    1016      88      88 rw---   [ anon ]
+00007f6eb26a4000    1016      88      88 rw---   [ anon ]
+00007f6eaaff7000    1016      92      92 rw---   [ anon ]
+00007f6eb24a2000    1016      92      92 rw---   [ anon ]
+00007f6eb09b4000    1016     100     100 rw---   [ anon ]
+00007f6ecc86f000    1028     104       0 r-x-- libm-2.17.so
+00007f6e9c000000     132     112     112 rw---   [ anon ]
+00007f6eb209e000    1016     112     112 rw---   [ anon ]
+00007f6ecea8f000     136     116       0 r-x-- ld-2.17.so
+00007f6eac000000     132     124     124 rw---   [ anon ]
+00007f6ecc016000     168     128       0 r-x-- libjava.so
+00007f6eb4000000     144     144     144 rw---   [ anon ]
+00007f6ecde1f000     168     168     168 rw--- libjvm.so
+00007f6eceb98000    1036     172     172 rw---   [ anon ]
+00007f6eb8724000    1204     192     192 rw---   [ anon ]
+00007f6ecde49000     204     196     196 rw---   [ anon ]
+00007f6e7c000000     264     248     248 rw---   [ anon ]
+00007f6ea4000000     252     252     252 rw---   [ anon ]
+00007f6e68000000     292     272     272 rw---   [ anon ]
+00007f6eccb71000     932     416       0 r-x-- libstdc++.so.6.0.19
+00007f6ecdd73000     688     688     688 r---- libjvm.so
+00007f6ecde7c000    1804     776       0 r-x-- libc-2.17.so
+00007f6eceab2000     904     840     840 rw---   [ anon ]
+00007f6eb821a000    2072     928     928 rw---   [ anon ]
+00007f6eabb02000    2464    1368    1368 rw---   [ anon ]
+00007f6eb8048000    1864    1864       0 r--s- rt.jar
+00007f6eabe00000    2048    2048    2048 rw---   [ anon ]
+00007f6eb03b1000    2048    2048    2048 rw---   [ anon ]
+00007f6eb05b1000    2048    2048    2048 rw---   [ anon ]
+00007f6eb07b1000    2048    2048    2048 rw---   [ anon ]
+00007f6eb0e63000    2048    2048    2048 rw---   [ anon ]
+00007f6eb1063000    2048    2048    2048 rw---   [ anon ]
+00007f6eb1263000    2048    2048    2048 rw---   [ anon ]
+00007f6eb166d000    2048    2048    2048 rw---   [ anon ]
+00007f6eb0b65000    3064    2132    2132 rw---   [ anon ]
+00007f6eb00b3000    3064    2140    2140 rw---   [ anon ]
+00007f6eb1870000    3064    2148    2148 rw---   [ anon ]
+00007f6e34000000    3128    3032    3032 rw---   [ anon ]
+00007f6e74000000    5064    5052    5052 rw---   [ anon ]
+00007f6e78000000    8468    8468    8468 rw---   [ anon ]
+00007f6eb27a3000   24948    8816    8816 rw---   [ anon ]
+00007f6ecce78000   13292    9236       0 r-x-- libjvm.so
+00007f6e80000000   18272   11224   11224 rw---   [ anon ]
+00007f6eb8be4000   11392   11340   11340 rwx--   [ anon ]
+00007f6e84000000   20828   15980   15980 rw---   [ anon ]
+00007f6ec8000000   17200   16460   16460 rw---   [ anon ]
+00000000fce00000   56064   35112   35112 rw---   [ anon ]
+total kB         3624492  159292  146100
