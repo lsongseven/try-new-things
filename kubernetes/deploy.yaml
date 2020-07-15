@@ -18,11 +18,18 @@ spec:
         app: hello-world
     spec:
       containers:
-      - image: lsongseven/hello-world
-        name: hello-world
-        resources: {}
-    volumes:
-    - name: data
-      persistentVolumeClaim:
-        claimName: data-pvc
-status: {}
+        - image: lsongseven/hello-world:v1.0-pre-stop
+          name: hello-world
+          resources: {}
+          volumeMounts:
+            - mountPath: "/data"
+              name: data-storage
+          lifecycle:
+            preStop:
+              exec:
+                command: ["/bin/sh","-c","pre-stop.sh"]
+      volumes:
+        - name: data-storage
+          persistentVolumeClaim:
+            claimName: data-pvc
+
